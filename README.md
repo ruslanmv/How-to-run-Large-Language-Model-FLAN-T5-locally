@@ -1,6 +1,6 @@
 # How to run Large Language Model FLAN -T5  and GPT locally
 
-Hello everyone, today we are going to run a Large Language Model (LLM)  FLAN-T5 locally.
+Hello everyone, today we are going to run a Large Language Model (LLM)  Google FLAN-T5 locally and GPT2.
 
 When you are building new applications by using **LLM** and you require a **development environment** in this tutorial I will explain how to do it.
 
